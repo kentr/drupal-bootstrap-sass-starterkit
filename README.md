@@ -3,6 +3,8 @@
 <!-- @ingroup sub_theming -->
 # Sass Starterkit
 
+This is a port of the [Drupal Bootstrap project] D8 LESS starterkit.
+
 Below are instructions on how to create a Bootstrap sub-theme using a Sass
 preprocessor.
 
@@ -59,3 +61,4 @@ Please refer to the @link registry Theme Registry @endlink topic.
 [Bootstrap Framework]: http://getbootstrap.com
 [Bootstrap Framework Sass Port Source Files]: https://github.com/twbs/bootstrap-sass
 [Sass]: http://sass-lang.com
+[Drupal Bootstrap project]: https://www.drupal.org/project/bootstrap
