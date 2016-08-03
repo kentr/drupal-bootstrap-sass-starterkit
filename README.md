@@ -1,3 +1,5 @@
+**Note:** a modified version of this is [now in the Bootstrap project](https://www.drupal.org/node/2102895#comment-11455301)
+
 <!-- @file Instructions for subtheming using the Sass Starterkit. -->
 <!-- @defgroup sub_theming_sass -->
 <!-- @ingroup sub_theming -->
